@@ -218,33 +218,10 @@ using Axios Interceptors.
 
 ---
 
-# Screenshots
-
-You can add screenshots here after deployment.
-
-Example
-
-```
-Login Page
-
-Dashboard
-
-Analytics
-
-Expense Management
-```
-
----
-
 # Future Improvements
 
 - Dark Mode
 - Notifications
-- Search & Filtering
-- Pagination
-- Export PDF
-- Mobile Optimization
-
 ---
 
 # Author
